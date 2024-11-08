@@ -1,3 +1,4 @@
-const sum = (a,b)=>{ //sum of a+b
+const sum = (a,b)=>{
   return a+b;
 }
+//this is a sum function 
