@@ -1,2 +1,2 @@
-This is a document file
-Hello welcome
+This is a document file in master branch
+Hello welcome everyone
